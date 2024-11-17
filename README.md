@@ -14,5 +14,5 @@ improved accuracy and ROC-AUC values, which indicate the
 great potential of this integrated approach toward predictive 
 healthcare.
 
-##Architecture Diagram
+## Architecture Diagram
 ![image](https://github.com/user-attachments/assets/5f43e3c3-475f-4dc6-ae01-d9ede8d58021)
